@@ -38,7 +38,7 @@ When I'm not working with data, I enjoy listening to new music, reading, and men
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 ## Certifications
-
+[Databricks Certified] (https://credentials.databricks.com/4464de41-2c97-4ebd-b6a2-bb26a6be0b12#acc.lWqB5U6G)
 
 #### Data Analysis & Visualization
 <p>
