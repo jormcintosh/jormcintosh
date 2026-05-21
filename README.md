@@ -37,6 +37,9 @@ When I'm not working with data, I enjoy listening to new music, reading, and men
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
+## Certifications
+
+
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
